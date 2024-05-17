@@ -1,0 +1,15 @@
+.Contactdetail{
+    margin: 50px 0px;
+    .contact{
+       line-height: 32px;
+       border: 2px solid #fff;
+       &:hover{
+        border: 2px solid #6D62FF;
+        border-radius: 10px;
+       
+       }
+    }
+    .contact{
+        height: 340px;
+    }
+}
